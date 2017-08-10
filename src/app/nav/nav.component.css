@@ -1,0 +1,30 @@
+div{
+	background-color: #9fc5f8;
+	width: 150px;
+	height: 300px;
+	border: 2px solid black;
+	margin-top: 20px;
+	padding-top: 5px;
+	float: left;
+}
+p{
+	margin-left: 5px;
+	margin-top: 0;
+}
+ul{
+	list-style: none;
+	padding-left: 0px;
+}
+li{
+	background-color: #9fc5f8;
+	text-align: center;
+	margin-bottom: 15px;
+	padding: 0;
+}
+a{
+	text-decoration: none;
+	color: black;
+	background-color: white;
+	padding: 0 40px;
+	box-shadow: 1px 1px;
+}
